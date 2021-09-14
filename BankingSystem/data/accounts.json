@@ -1,0 +1,37 @@
+{
+    "Accounts": [
+        {
+            "Account Number": 704551541285,
+            "Balance": 259451.93,
+            "Email": "invisibleman@gmail.com",
+            "Name": "John Cena",
+            "Password": "11ab9f68b1a5b9269c97f6de521012da95ac93d75037c955aca979f0d25aca15",
+            "Transactions": [
+                null,
+                {
+                    "Amount": 2500.0,
+                    "Date": "9/13/2021, 9:59:51 PM",
+                    "Description": "$2500.0 deposit",
+                    "ID": 1,
+                    "Type": "Deposit"
+                },
+                {
+                    "Amount": -34.0,
+                    "Date": "9/13/2021, 10:0:11 PM",
+                    "Description": "$34.00 withdrawl",
+                    "ID": 2,
+                    "Type": "Withdrawl"
+                },
+                {
+                    "Amount": 256985.93,
+                    "Date": "9/13/2021, 10:0:43 PM",
+                    "Description": "$256985.9 deposit",
+                    "ID": 3,
+                    "Type": "Deposit"
+                }
+            ],
+            "Type": "Checking",
+            "Username": "jcena1285"
+        }
+    ]
+}
